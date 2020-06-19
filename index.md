@@ -13,3 +13,5 @@ Tyrion says:
 > blablabla
 > blabla
 
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=4gbPO8K8&id=413CB923C6925BC9CB99E30DFEDAA5C4DB134273&thid=OIP.4gbPO8K8hN9FL4qynMpAzwHaMC&mediaurl=https%3a%2f%2fvignette.wikia.nocookie.net%2fgameofthrones%2fimages%2f8%2f86%2fTyrion_S8_Cropped.jpg%2frevision%2flatest%3fcb%3d20190206214225&exph=1812&expw=1114&q=tyrion+lannister&simid=608003889537025537&ck=0905FDB7EB7C45732E367C5CD0991BE3&selectedIndex=2">
+
